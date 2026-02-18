@@ -1,0 +1,18 @@
+{
+	"/": [
+		"src/routes/+layout.server.js",
+		"src/routes/+layout.server.js"
+	],
+	"/talks": [
+		"src/routes/+layout.server.js"
+	],
+	"/teaching": [
+		"src/routes/+layout.server.js"
+	],
+	"/work-in-progress": [
+		"src/routes/+layout.server.js"
+	],
+	"/writings": [
+		"src/routes/+layout.server.js"
+	]
+}
