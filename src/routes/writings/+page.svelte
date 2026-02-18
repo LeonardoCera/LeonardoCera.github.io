@@ -17,8 +17,14 @@
         <li style="font-size: 18px"> Leonardo Ceragioli, Bilateral Rules as Complex Rules Bulletin of the Section of Logic 52(3), pp. 329-375. DOI: <a href=" https://doi.org/10.18778/0138-0680.2023.13"> https://doi.org/10.18778/0138-0680.2023.13 </a> (2023) </li>
         <li style="font-size: 18px"> Leonardo Ceragioli, Inferential Semantic Contamination, Harmony and Realist Pollution Synthese 205(123). DOI: <a href=" https://doi.org/10.1007/s11229-024-04871-x"> https://doi.org/10.1007/s11229-024-04871-x </a> (2025) </li>
         <li style="font-size: 18px"> Leonardo Ceragioli and Giuseppe Primiero, A Proof System with Causal Labels (Part II): checking Counterfactual Fairness, OVERLAY 2025 proceedings: <a href=" https://ceur-ws.org/Vol-4142/paper19.pdf "> https://ceur-ws.org/Vol-4142/paper19.pdf </a> (2025) </li>
-        <li style="font-size: 18px"> Leonardo Ceragioli and Giuseppe Primiero, A Proof System with Causal Labels (Part I): checking Individual Fairness and Intersectionality, OVERLAY 2025 proceedings: <a href=" https://arxiv.org/abs/2507.14650 "> https://doi.org/10.48550/arXiv.2507.14650 </a> (2025) </li>
+        <li style="font-size: 18px"> Leonardo Ceragioli and Giuseppe Primiero, A Proof System with Causal Labels (Part I): checking Individual Fairness and Intersectionality, OVERLAY 2025 proceedings: <a href=" https://ceur-ws.org/Vol-4142/paper19.pdf "> https://ceur-ws.org/Vol-4142/paper19.pdf </a> (2025) </li>
         <li style="font-size: 18px"> Leonardo Ceragioli and Giuseppe Primiero, Trustworthiness Preservation by Copies of Machine Learning Systems, ArXiv: <a href=" https://doi.org/10.48550/arXiv.2506.05203 "> https://doi.org/10.48550/arXiv.2506.05203 </a> (2025) </li>
+    <h2>Preprints Articles:</h2>
+    <ul>
+    <li style="font-size: 18px"> Leonardo Ceragioli and Giuseppe Primiero, A Proof System with Causal Labels (Part II): checking Counterfactual Fairness, Arxiv: <a href=" https://doi.org/10.48550/arXiv.2507.14655 "> https://doi.org/10.48550/arXiv.2507.14655 </a> (2025) </li>
+        <li style="font-size: 18px"> Leonardo Ceragioli and Giuseppe Primiero, A Proof System with Causal Labels (Part I): checking Individual Fairness and Intersectionality, ArXiv: <a href=" https://arxiv.org/abs/2507.14650 "> https://doi.org/10.48550/arXiv.2507.14650 </a> (2025) </li>
+        <li style="font-size: 18px"> Leonardo Ceragioli and Giuseppe Primiero, Trustworthiness Preservation by Copies of Machine Learning Systems, ArXiv: <a href=" https://doi.org/10.48550/arXiv.2506.05203 "> https://doi.org/10.48550/arXiv.2506.05203 </a> (2025) </li>
+    
     </ul>
     <h2>Educational Articles:</h2>
     <ul>
