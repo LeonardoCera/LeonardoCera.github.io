@@ -9,13 +9,11 @@
     import Firenze from '$lib/assets/firenze.pdf';
 </script>
 <div class="container">
-    <h2>Forthcoming:</h2>
-    <ul>
-        <li style="font-size: 18px"> Leonardo Ceragioli and Camillo Fiore, SASC Sequent Calculi for Classical and (Dual) Intuitionistic Logic <a href=" https://sites.google.com/view/ptsnetwork/pts-seminars?authuser=0#h.7cbuz4z1450b"> PTS Seminar Series</a>, The PTS-Network (Online) (February 24, 5pm (UTC+0)) </li>
-    </ul>
     
     <h2>Past:</h2>
-    <ul>        
+    <ul>      
+
+    <li style="font-size: 18px"> Leonardo Ceragioli and Camillo Fiore, SASC Sequent Calculi for Classical and (Dual) Intuitionistic Logic <a href=" https://sites.google.com/view/ptsnetwork/pts-seminars?authuser=0#h.7cbuz4z1450b"> PTS Seminar Series</a>, The PTS-Network (Online) (February 24, 5pm (UTC+0)) </li>  
         
     <li style="font-size: 18px"> Leonardo Ceragioli and Camillo Fiore, Meaning Dependence and Single-Assumption Single-Conclusion Systems in Proof-Theoretic Semantics <a href=" https://sites.google.com/view/pts-symposium-uk/home?authuser=0"> 6th Symposium on Proof-Theoretic Semantics</a>, UCL and Institute of Philosophy (February 9-11, 2026) </li>
 

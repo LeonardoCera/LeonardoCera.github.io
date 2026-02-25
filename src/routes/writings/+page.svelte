@@ -8,7 +8,7 @@
 <div class="container">
     <h2>Journal Articles:</h2>
     <ul>
-        <li style="font-size: 18px"> Leonardo Ceragioli and Giuseppe Primiero, Trustworthiness Preservation by Copies of Machine Learning Systems, International Journal of Approximate Reasoning. DOI: <a href=" https://doi.org/10.1016/j.ijar.2026.109638. "> https://doi.org/10.1016/j.ijar.2026.109638. </a> (2026) </li>
+        <li style="font-size: 18px"> Leonardo Ceragioli and Giuseppe Primiero, Trustworthiness Preservation by Copies of Machine Learning Systems, International Journal of Approximate Reasoning. DOI: <a href=" https://doi.org/10.1016/j.ijar.2026.109638"> https://doi.org/10.1016/j.ijar.2026.109638 </a> (2026) </li>
         <li style="font-size: 18px"> Leonardo Ceragioli, Inferential Semantic Contamination, Harmony and Realist Pollution Synthese 205(123). DOI: <a href=" https://doi.org/10.1007/s11229-024-04871-x"> https://doi.org/10.1007/s11229-024-04871-x </a> (2025) </li>
         <li style="font-size: 18px"> Leonardo Ceragioli, Bilateral Rules as Complex Rules Bulletin of the Section of Logic 52(3), pp. 329-375. DOI: <a href=" https://doi.org/10.18778/0138-0680.2023.13"> https://doi.org/10.18778/0138-0680.2023.13 </a> (2023) </li>
         <li style="font-size: 18px"> Leonardo Ceragioli and Valentina Luporini, Intuition is not (always) immediate, and this is good news! Bulletin d'Analyse Phénoménologique XIX Numéro 3 (Actes 13), pp. 180–204. <a href="https://popups.uliege.be/1782-2041/index.php?id=1402&quot;"> https://popups.uliege.be/1782-2041/index.php?id=1402 </a> (2023) </li>
